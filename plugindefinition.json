@@ -1,0 +1,27 @@
+{
+    "Name": "Master Order Checker",
+    "Author": "ForgottenGlory",
+    "Description": "Checks your load order to see if you have plugins loading before their masters. ",
+    "DocsUrl": "https://github.com/ForgottenGlory/mo2-master-order-checker/blob/main/README.md",
+    "GithubUrl": "https://github.com/ForgottenGlory/mo2-master-order-checker",
+    "NexusUrl": "https://www.nexusmods.com/site/mods/608",
+    "Versions": [
+        {
+            "Version": "1.0.0",
+            "Released": "2023-07-19",
+            "MinSupport": "2.4.4",
+            "MaxSupport": "",
+            "MinWorking": "2.4.4",
+            "MaxWorking": "",
+            "DownloadUrl": "https://github.com/ForgottenGlory/mo2-master-order-checker/archive/refs/tags/release.zip",
+            "PluginPath": [
+                "mo2-master-order-checker-release/master_order_checker.py"
+            ],
+            "LocalePath": [],
+            "DataPath": [
+                "master_order_checker.py"
+            ],
+            "ReleaseNotes": []
+        }
+    ]
+}
